@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\Programação\Projects-\UserDetails\obj\Debug\net8.0\UserDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\Programação\Projects-\UserDetails\obj\Debug\net8.0\UserDetails.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\Programação\Projects-\UserDetails\obj\Debug\net8.0\UserDetails.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\Programação\Projects-\UserDetails\obj\Debug\net8.0\UserDetails.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Programação\Projects-\UserDetails\obj\Debug\net8.0\UserDetails.sourcelink.json
+C:\Users\Usuário\Desktop\Programação\Projects-\UserDetails\bin\Debug\net8.0\UserDetails.exe
+C:\Users\Usuário\Desktop\Programação\Projects-\UserDetails\bin\Debug\net8.0\UserDetails.deps.json
+C:\Users\Usuário\Desktop\Programação\Projects-\UserDetails\bin\Debug\net8.0\UserDetails.runtimeconfig.json
+C:\Users\Usuário\Desktop\Programação\Projects-\UserDetails\bin\Debug\net8.0\UserDetails.dll
+C:\Users\Usuário\Desktop\Programação\Projects-\UserDetails\bin\Debug\net8.0\UserDetails.pdb
+C:\Users\Usuário\Desktop\Programação\Projects-\UserDetails\obj\Debug\net8.0\UserDetails.dll
+C:\Users\Usuário\Desktop\Programação\Projects-\UserDetails\obj\Debug\net8.0\refint\UserDetails.dll
+C:\Users\Usuário\Desktop\Programação\Projects-\UserDetails\obj\Debug\net8.0\UserDetails.pdb
+C:\Users\Usuário\Desktop\Programação\Projects-\UserDetails\obj\Debug\net8.0\UserDetails.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\Programação\Projects-\UserDetails\obj\Debug\net8.0\ref\UserDetails.dll
